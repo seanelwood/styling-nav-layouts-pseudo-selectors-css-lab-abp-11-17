@@ -65,6 +65,13 @@ div.jumbotron {
 div.questions {
   padding: 0 20px 0 20px;
 }
+div.questions h4 {
+  font-size: 30px;
+  margin-bottom: 10px;
+}
+div.questions p {
+  margin-top: 30px;
+}
 
 footer{
   border-top: 1px solid #ccc;
